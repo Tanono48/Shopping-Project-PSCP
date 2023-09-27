@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+body {
+  background-color: #FFFFFF;
+}
+.box1 {
+  color: #2c2a2b;
+}
+.box1 .Greet{
+  font-size: 48px;
+  font-weight: 500 !important;
+}
+.box1 .Greet_Under{
+  font-size: 38px;
+  font-weight: 500 !important;
+}
+.box2 {
+  color: #2c2a2b;
+  padding-top: 30%;
+}
+.box2 .Greet_Big{
+  font-size: 72px;
+  font-weight: 500 !important;
+}
+.box2 .Greet_Small{
+  font-size: 42px;
+  font-weight: 400 !important;
+}
